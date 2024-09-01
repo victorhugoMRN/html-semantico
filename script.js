@@ -1,3 +1,3 @@
 alert (
-    'Aluno: Victor Hugo Maran'
+    'Site com tags semânticas de Victor Hugo Maran'
 )
